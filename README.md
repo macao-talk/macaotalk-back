@@ -22,4 +22,5 @@
     - [ ] 메세지를 날짜별로 정렬 기능
   
 ## 화면
-<img width="780" alt="Screenshot 2023-12-13 at 3 39 15 PM" src="https://github.com/syk25/macaotalk/assets/129013571/2cbd9bb0-dfa8-43ab-9fcd-2dc3b84cb309">
+![image](https://github.com/macao-talk/macaotalk-back/assets/129013571/f6cd4871-39b5-446f-b99d-0418cd9a0c18)
+
